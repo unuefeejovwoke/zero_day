@@ -1,1 +1,2 @@
-This file is mandatory in projects
+MINGW64_NT-10.0-18363
+
